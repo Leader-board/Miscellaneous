@@ -1,0 +1,1288 @@
+What's New in VirusScan for Windows 95 v3.1.1 (3008a)
+        Copyright 1994-1997 by McAfee, Inc.
+               All Rights Reserved.
+
+                
+Thank you for using McAfee's VirusScan for Windows 95. 
+This What's New file contains important information 
+regarding the current version of this product. It is 
+highly recommended that you read the entire document.
+
+McAfee welcomes your comments and suggestions. Please 
+use the information provided in this file to contact us.
+
+___________________
+WHAT'S IN THIS FILE
+
+- New Features
+- Issues Addressed in this Release
+- Known Issues
+- Installation
+- Documentation
+- Frequently Asked Questions
+- Contact McAfee
+
+____________
+NEW FEATURES 
+
+1.  VirusScan's powerful new user interface provides 
+    advanced scan configuration settings and a complete
+    Tools menu. From the Tools menu, users can: Password 
+    protect scan tasks, gain access to the McAfee Virus 
+    List, and start the VirusScan Console. The Tools menu
+    is conveniently located in VirusScan's main window.     
+
+2.  The VirusScan Console is an intuitive addition to
+    VirusScan for Windows 95. The VirusScan Console
+    facilitates easy and efficient scheduling and 
+    configuring of scan tasks. 
+
+3.  VirusScan now offers configuration lockdown for 
+    both the on-demand scanner and VShield, the on-access
+    scanner, through password protection. 
+ 
+    Users or administrators can now password protect scan
+    settings to prevent unintentional changes being made.
+
+4.  ScreenScan is now compatible with 3-D screen savers 
+    in Windows 95 OSR2. 
+
+5.  Increased file compression scanning capabilities.
+    VirusScan now scans files compressed with PKLITE,
+    LZEXE, and LHA compression software.
+
+6.  VShield is now compatible with Microsoft's 'FindFast' 
+    Fast File Indexer that comes with MS Office. Now, while 
+    FindFast indexes your files for faster access, VShield 
+    will check them for macro viruses. Now you can have fast,
+    safe access to all your documents.
+
+7.  VShield now supports Novell Client32.
+
+
+* NEW VIRUSES DETECTED *
+
+This DAT file detects the following 198 new viruses.
+Locations that have experienced particular problems 
+with specific viruses are also identified.
+
+ABC.A
+AL-DITH.1502
+ALEX.599
+ALFONS.1344
+ANDYC.565
+ANDYC.565 DROPPER
+ANGEL.A
+ANT.A:TW
+ANT.C:TW
+ANT.D:TW
+APPDER.G
+APPDER.H
+APPDER.I
+BADSECTOR.3422
+BADSECTOR.3428
+BAJAB.1024
+BANDUNG.AS
+BANDUNG.AT
+BANDUNG.AU
+BANDUNG.AW
+BANDUNG.AX
+BANDUNG.AY
+BANDUNG.AZ
+BANDUNG.BA
+BARBARO.A:IT
+BARROTES.1310.A
+BLACK.A
+BLIN.1457
+CAFE-AX.1516
+CAP.I                   
+CAP.K
+CAP.M
+CAP.X
+CAP.Y
+CEBU.B
+CHAOS.B
+CHILL.A
+COLORS.BL
+COLORS.BM
+COLORS.BN
+COLORS.BO
+CONCEPT.AL
+CONCEPT.AR
+CONCEPT.AW
+CONCEPT.AX
+CONCEPT.AY
+CONCEPT.AZ
+CONCEPT.BA
+CONCEPT.BB              (US)
+CONCEPT.BC
+CONCEPT.BD
+CONCEPT.BE
+CONCEPT.BF
+CONCEPT.BG
+CONCEPT.BH
+DEMON.A
+DISHONOR.A:DE
+DODGY                   (UK, Europe)
+DPOP.1168
+DZT.G
+ELYTHNIA
+EPIDEMIC.B:TW
+EPIDEMIC.C:TW
+ERASER.F:TW
+FIRE.A:DE
+FITW_DISK
+FOG.1748
+FORMATS.A (TROJAN)
+FOUR.A
+FRIDAY.D:DE
+FRIDAY.E:DE
+GINGER                  (Australia)
+GINGER-PEANUT
+GINGER.2774
+GLITTER.1462
+GOLDSECRET.A            (Internet)
+GOLDSECRET.B (INTENDED) (Internet)
+HELPER.F
+HELPER.G
+HELPER.H
+HLL.CMP.16052
+HLLO.20621
+HLLP.21037
+HLLT.5850               (Internet)
+HLLT.5850C              (Internet)
+HYBRID.G
+HYBRID.H
+ILLITERATE.A
+IMPOSTER.E
+INCARNAT.A
+ISLAND.3551
+IVP.1075
+IVP.1755
+KOH-INSTALL
+KOMPU.E
+KOMPU.F
+LAMOT.744
+LILITH
+LUCIFER.A
+LUNCH.E
+MALARIA.A:TW
+MDMA.V
+MDMA.W
+MDMA.X
+MDMA.Y
+MONDAY.A:TW
+MORPHINE.3500
+MSHARK.889
+MUCK.G
+MUCK.H
+MULTIANI
+MVCK1.B
+MVCK1:KIT
+NAZI.8600
+NJ-WMDLK1.G
+NOP.G
+NOP.M:DE
+NPAD.CE
+NPAD.CF
+NPAD.CG
+NPAD.CH
+NPAD.CI
+NPAD.CJ
+NPAD.CK
+NPAD.CL
+NPAD.CM
+NPAD.CN                   (Canada)
+NPAD.CO
+NPAD.CP
+NPAD.CQ
+NPAD.CR
+NPAD.CS
+NUCLEAR.O
+NUCLEAR.P
+NUCLEAR.Q
+NUCLEAR.R
+NUKER.A
+OMINOUS.1846
+PAYCHECK.E
+PEACEKEEPER.A
+PEACEKEEPER.B
+PERCENT.A:TW
+RAPI.AL2
+RAZER.A
+REHENES.A                (Word6/7)
+RELLIK.A:TW
+SCHUMANN.B:DE
+SETMD.A
+SHIN
+SHOWOFF.BT
+SHOWOFF.BU
+SHOWOFF.BV
+SHOWOFF.BW
+SKIMPOP.1455
+SOCKS.A
+SOPRON.937
+SPOOKY.B:DE
+SPOOKY.C:DE
+STOOPID.353
+SWAPPER.746              (Germany)
+SWLABS.E
+SWLABS.F
+SWLABS.G                 (US Military)
+TALON.B
+TALON.C
+TALON.D
+TALON.J
+TARGET.B:DE
+TEMPLE.C
+TMC-LEVEL42
+TODAYBOO
+TWOLINES.Q
+TWOLINES.Q1
+VAMPIRE.D:TW
+VAMPIRE.D1:TW
+VAMPIRE.E:TW
+VAMPIRE.F:TW
+VANITAS.2048             (Internet)
+VICOD.532
+VIKING32 (TROJAN)
+VOLCANO.A:IT (INTENDED)
+WAZZU.CF                 (Canada)
+WAZZU.CJ
+WAZZU.CK
+WIN NUKE (TROJAN)
+WPC_ALAEH.2279           (Phillipines)
+XM/EMPEROR.B:TW
+XM/LAROUX.F
+XM/LAROUX.G
+XM/YOHIMBE.B
+XUTE.1056
+XUTE2.1062
+XUXA.1656
+ZAHAK.960
+ZERO.A:DE
+ZMB.A:DE                 (Germany)
+ZOOLOG.A                 (Russia)
+
+
+* NEW VIRUSES CLEANED *
+
+This DAT file cleans the following 174 new viruses.
+Locations that have experienced particular problems 
+with specific viruses are also identified.
+
+AL-DITH.1502
+ALEX.599
+ALFONS.1344
+ANDYC.565
+ANDYC.565 DROPPER
+ANGEL.A
+ANT.A:TW
+ANT.C:TW
+ANT.D:TW
+APPDER.G
+APPDER.H
+APPDER.I
+BADSECTOR.3422
+BADSECTOR.3428
+BAJAB.1024
+BANDUNG.AS
+BANDUNG.AT
+BANDUNG.AU
+BANDUNG.AW
+BANDUNG.AX
+BANDUNG.AY
+BANDUNG.AZ
+BANDUNG.BA
+BARBARO.A:IT
+BARROTES.1310.A
+BLACK.A
+CAFE-AX.1516
+CAP.I                   
+CAP.K
+CAP.M
+CAP.X
+CAP.Y
+CEBU.B
+CHAOS.B
+CHILL.A
+COLORS.BL
+COLORS.BM
+COLORS.BN
+COLORS.BO
+CONCEPT.AW
+CONCEPT.AX
+CONCEPT.AY
+CONCEPT.AZ
+CONCEPT.BA
+CONCEPT.BB              (US)
+CONCEPT.BC
+CONCEPT.BD
+CONCEPT.BE
+CONCEPT.BF
+CONCEPT.BG
+CONCEPT.BH
+DEMON.A
+DISHONOR.A:DE
+DODGY	                  (UK, Europe)
+DPOP.1168
+DZT.G
+ELYTHNIA
+EPIDEMIC.B:TW
+EPIDEMIC.C:TW
+FIRE.A:DE
+FITW_DISK
+FORMATS.A (TROJAN)
+FOUR.A
+FRIDAY.D:DE
+FRIDAY.E:DE
+GINGER                  (Australia)
+GINGER-PEANUT
+GINGER.2774
+GOLDSECRET.A		(Internet)
+GOLDSECRET.B (INTENDED)	(Internet)
+HELPER.F
+HELPER.G
+HELPER.H
+HLL.CMP.16052
+HLLO.20621
+HLLP.21037
+HLLT.5850               (Internet)
+HLLT.5850C              (Internet)
+HYBRID.G
+HYBRID.H
+ILLITERATE.A
+IMPOSTER.E
+INCARNAT.A
+IVP.1075
+IVP.1755
+KOH-INSTALL
+KOMPU.E
+KOMPU.F
+LAMOT.744
+LILITH
+LUCIFER.A
+LUNCH.E
+MALARIA.A:TW
+MDMA.V
+MDMA.W
+MDMA.X
+MDMA.Y
+MONDAY.A:TW
+MSHARK.889
+MUCK.G
+MUCK.H
+MULTIANI
+MVCK1.B
+MVCK1:KIT
+NAZI.8600
+NJ-WMDLK1.G
+NOP.M:DE
+NPAD.CE
+NPAD.CF
+NPAD.CG
+NPAD.CH
+NPAD.CI
+NPAD.CJ
+NPAD.CK
+NPAD.CL
+NPAD.CM
+NPAD.CN                    (Canada)
+NPAD.CO
+NPAD.CP
+NPAD.CQ
+NPAD.CR
+NPAD.CS
+NUCLEAR.O
+NUCLEAR.P
+NUCLEAR.Q
+NUCLEAR.R
+NUKER.A
+PAYCHECK.E
+PERCENT.A:TW
+RAPI.AL2
+RAZER.A
+RELLIK.A:TW
+SCHUMANN.B:DE
+SETMD.A
+SHIN
+SHOWOFF.BT
+SHOWOFF.BU
+SHOWOFF.BV
+SHOWOFF.BW
+SKIMPOP.1455
+SOCKS.A
+SOPRON.937
+SPOOKY.B:DE
+SPOOKY.C:DE
+STOOPID.353
+SWAPPER.746               (Germany)
+SWLABS.E
+SWLABS.F
+SWLABS.G                  (US Military)
+TALON.J
+TARGET.B:DE
+TMC-LEVEL42
+TODAYBOO
+TWOLINES.Q
+TWOLINES.Q1
+VAMPIRE.D:TW
+VAMPIRE.D1:TW
+VAMPIRE.E:TW
+VAMPIRE.F:TW
+VANITAS.2048              (Internet)
+VICOD.532
+VOLCANO.A:IT (INTENDED)
+WAZZU.CF                  (Canada)
+WAZZU.CJ
+WAZZU.CK
+WPC_ALAEH.2279            (Phillipines)
+XM/EMPEROR.B:TW
+XM/LAROUX.F
+XM/LAROUX.G
+XM/YOHIMBE.B
+XUTE.1056
+XUTE2.1062
+XUXA.1656
+ZMB.A:DE                  (Germany)
+ZOOLOG.A                  (Russia)
+
+________________________________
+ISSUES ADDRESSED IN THIS RELEASE
+
+1.  Issues surrounding the removal of LAROUX.A and LAROUX.E 
+    Excel macro viruses have been resolved.  
+
+____________
+KNOWN ISSUES
+
+1.  The new 3000 series DATs contained in VirusScan v3.1.1
+    are not backward compatible with the VirusScan v2.x
+    series. The 3000 series DATs should not be used with
+    VirusScan v2.x products.
+
+2.  Windows 95 no longer requires MS-DOS memory managers.
+    Using MS-DOS memory managers may cause VirusScan for
+    Windows 95 to falsely detect viruses in memory. To
+    eliminate false warnings, remark (Rem) the memory 
+    manager lines from your CONFIG.SYS to deactivate them.
+
+3.  ScreenScan's log file has a maximum size of 100KB. If
+    the file reaches this size, the oldest data will be
+    deleted. To retain logging data, you should edit the
+    content to keep the log file under 100K or save the
+    oldest data to another file.
+
+4.  ScreenScan will stop scanning after it detects a 
+    virus and prompt you to launch VirusScan. If you have
+    additional viruses on your system, ScreenScan will not
+    notify you until the next time it activates. McAfee
+    recommends that you scan and clean your entire system
+    with VirusScan whenever ScreenScan detects a virus.
+
+5.  After uninstalling ScreenScan, the screen saver will
+    be set to None. You can reactivate your screen saver
+    from the Display Properties.
+
+6.  If using CTRL+ALT+DEL to shut down a Windows 95 system
+    when VShield or any other VxD is enabled, Windows will
+    not shut down. However, VShield or the VxD will be
+    disabled. Windows will not shut down unless the shut
+    down process is repeated. This is a known issue with
+    Microsoft's Windows 95 operating system.   
+
+7.  When creating an Emergency Disk, you must close all 
+    open windows to the floppy drives. The Emergency Disk
+    creation utility must have exclusive access to the 
+    floppy or the system file transfer may fail, making
+    the disk non-bootable.    
+
+8.  If password protection is set for VShield or any
+    scan task, when an associated program is launched, you 
+    will be prompted to verify the password. You must use 
+    the mouse to click in the text field to enter the 
+    password, or click on Cancel to exit. Keyboard strokes
+    are not functional. This is a Microsoft issue as stated 
+    in Microsoft's Knowledge Base Article ID #Q84133.
+
+9.  The Status properties page for VShield Properties can
+    only be updated by closing and reopening VShield's Task
+    Properties window.
+
+10. If an .LZH file is infected with the Concept macro
+    virus, you must first decompress the file to delete
+    the virus.
+
+11. The VShield component of VirusScan 3.1.0 and v3.1.1
+    contains significant enhancements over the VShield 
+    component of VirusScan 3.0.0. Because of these extensive
+    modifications to the product, McAfee strongly recom-
+    mends you reboot your system after installing the new
+    version of VirusScan. You will not be protected by
+    VShield until you reboot.
+
+12. When running two or more instances of Scan32.EXE and two or 
+    more LHA compressed archives are scanned simultaneously,
+    Scan32.EXE will terminate with a page fault.
+
+13. Scan32.EXE is not fully compatible with FAT32 boot sectors.
+
+14. When an infected file is unzipped directly to a Novell 
+    server, VShield will not detect the infection as the file
+    is created. For maximum security, use VirusScan to scan
+    the Novell server after the files have been unzipped to 
+    the server.
+
+15. Because disk defragmentation programs move files around as
+    they maximize disk efficiency, applications running during 
+    a disk defragmenting program session may return an error 
+    message stating files cannot be found. 
+
+____________
+INSTALLATION         
+
+* INSTALLING THE PRODUCT *
+
+1.  Do one of the following:
+    
+    - If installing from diskette or compact disc, insert it 
+      into your floppy disk drive or CD-ROM drive.
+
+    - If installing from files downloaded from a BBS or the 
+      McAfee Web Site, decompress the zipped files into a 
+      directory on the network or your local drive.
+
+2   Select Run from the Start menu.
+
+3.  If installing from diskette, type x:\setup.exe where x 
+    is the drive in which you placed the diskette. Click OK.
+
+    If installing from compact disc, type x:\win95\setup.exe
+    where x is the drive in which you placed the CD-ROM. 
+    Click OK.
+
+    If installing from downloaded files, type 
+    x:\path\setup.exe  where x:\path is the location of the
+    files (for example, C:\DOWNLOAD\SETUP.EXE). Click OK.
+
+    Response: The Welcome screen is displayed. Click Next to 
+    continue.
+
+4.  Follow the on-screen installation instructions to 
+    complete VirusScan installation.
+
+5.  When installation is complete, reboot your system
+    for the changes to take effect. 
+ 
+
+* PERFORMING A SILENT INSTALLATION *
+
+If you would like to perform a "silent" installation
+of VirusScan, requiring minimal user interaction and
+using all default or "Typical" installation settings,
+add -s (i.e. SETUP.EXE -s) to the setup command when
+you install the product.
+
+Network Administrators can customize the silent
+installation feature by following the steps outlined
+below.
+
+1.  Check in the Windows directory to ensure that a
+    file named SETUP.ISS does not already exist. If it
+    does, rename it, back it up, or delete it.
+
+2.  Run SETUP.EXE with the -r switch, (i.e. SETUP.EXE -r).
+
+3.  Select the components you would like to be installed
+    during the silent installation.  All responses will
+    be recorded.
+
+4.  Finish the installation, and locate the file SETUP.ISS
+    in the Windows directory.
+
+    Note: You can modify this file to allow the instal-
+          lation to copy the VirusScan files to the drive
+          where the operating system resides instead of 
+          defaulting to the C: drive by following the 
+          instructions below:
+          
+          Locate the section [SdSetupType-0] in the 
+          SETUP.ISS file and go to the line: Result=x
+
+          where x is equal to:
+          301 (Typical installation)
+          302 (Compact installation)
+          303 (Custom installation)
+
+          Add 100 to the above value, so that the Result
+          variable is equal to 401, 402, or 403. 
+
+7.  Copy the installation files onto a local or mapped
+    drive, then rename, back up, or delete the SETUP.ISS
+    file.
+
+    Note: A silent install cannot be performed from
+          multiple media as the silent operation will be
+          comprimised when the install prompts the user
+          for more media. 
+
+8.  Copy the new SETUP.ISS from the Windows directory
+    to the location of the installation files.
+
+9.  Run SETUP.EXE with the -s switch (i.e. SETUP.EXE -s).
+
+    NOTE: If you do not specify a "recorded" answer for
+    all dialog boxes during the initial installation, the
+    silent installation will fail. Also, the file used
+    for the silent installation, SETUP.ISS, may not work
+    properly across different operating systems. For
+    example, if the silent install is generated for
+    Windows 95, it may not work properly in Windows 3.1x
+    or Windows NT.
+
+10. When the silent installation is complete, the machine 
+    will reboot automatically.
+
+
+* PRIMARY PROGRAM FILES FOR VIRUSSCAN FOR WINDOWS 95 *
+
+Note: Depending on the type of license you purchased, some 
+of these files may not be installed.
+
+Files located in the Install directory:
+=======================================
+
+1.  Installed for VShield/Scan32/DOS/ScreenScan:                              
+
+                  README.1ST = License and registration
+                               information
+                   CLEAN.DAT = Virus clean definition data
+                 MCALYZE.DAT = Virus definition data
+                   NAMES.DAT = Virus names definition data
+                    SCAN.DAT = Virus scan definition data
+
+                  ADVGUI.DLL = Advanced interface library
+                               file
+                 MCGUI32.DLL = AV Console library file   
+                  S95EXT.DLL = Library file
+                SHEXTVSH.DLL = Library file
+
+                AVCONSOL.EXE = VirusScan Console program
+                               file
+                  MCECOM.EXE = Electronic Commerce program
+                               file
+                  CHKVXD.EXE = VShield virtual device                
+                SCNCFG32.EXE = VirusScan configuration
+                               program
+                SETBROWS.EXE = Set browser program  
+                VIRLST32.EXE = McAfee Virus List  
+                VALIDATE.EXE = McAfee file validation
+                               program
+                 VSECOMR.EXE = Electronic Commerce program
+                               file 
+                   WCMDR.EXE = Windows Commander program
+                               driver checking utility
+
+                AVCONSOL.HLP = AV Console help file  
+                  SCAN32.HLP = Scan32 help file  
+                VSHCFG32.HLP = VShield configuration
+                               help file
+                                         
+                AVCONSOL.INI = AV Console initialization
+                               file
+                   WCMDR.INI = Windows Commander
+                               configuration settings
+                WCMDRSIL.INI = unInstallShield helper
+                               configuration
+
+                  DELSL?.ISU = Uninstall file
+
+                 PACKING.LST = Packing list
+
+                 FAXFORM.TXT = Fax registration form
+                 LICENSE.TXT = License text file 
+                RESELLER.TXT = McAfee authorized resellers
+                  VSCLOG.TXT = Activity log for VirusScan  
+                  VSHLOG.TXT = Activity log for VShield
+                WHATSNEW.TXT = What's New document
+
+                 
+2.  Installed for VShield/Scan32:
+
+                  DPMI16.DLL = 16-bit DOS protected mode
+                               interface library
+                  DPMI32.DLL = 32-bit DOS protected mode
+                               interface library
+                 MCALYZE.DLL = Library files
+                 MCCOD32.DLL = Library files
+                MCKRNL32.DLL = Library files
+                MCSCAN32.DLL = Library files          
+                MCUTIL32.DLL = Library files
+                  VSECOM.DLL = Library files
+
+3.  Installed for VShield:
+
+                VSHCFG32.EXE = VShield configuration 
+                               program
+                VSHWIN32.EXE = VShield engine
+                 DEFAULT.VSH = Default VShield settings
+
+4.  Installed for Scan32:
+
+                  SHUTIL.DLL = Run-time support library
+                  SCAN32.EXE = VirusScan for Windows 95
+                               program
+                 DEFAULT.VSC = Default Scan32 settings
+                
+5.  Installed for Emergency Disk Creation Utility:
+
+                    SCAN.EXE = MS-DOS scan program
+                  SCANPM.EXE = Protected mode scanner
+                 EDISK32.EXE = Emergency Disk creation
+                               utility
+                GETREPLY.EXE = Emergency diskette program
+                               component
+                      EDAT.1 = Emergency Disk batch file
+                      EDAT.2 = Emergency Disk program
+                               information file
+                      EDAT.3 = Emergency Disk file
+                      EDAT.4 = Emergency Disk file
+                      EDAT.5 = Emergency Disk file
+                      EDAT.6 = Emergency Disk file
+                   EDISK.SCR = Emergency Disk script                            
+                MCKRNL16.DLL = Emergency Disk library file   
+                MCUTIL16.DLL = Emergency Disk library file  
+                  EMSCAN.DAT = Virus scan definition data
+                 EMCLEAN.DAT = Virus clean definition data
+                 EMNAMES.DAT = Virus names definition data
+
+6. Installed for ScreenScan:
+
+                MCKRNL32.DLL = Library file
+                MCUTIL32.DLL = Library file
+                SCRSCANP.DLL = Library file
+                SCRSCANR.DLL = Library file
+                DUNZIP32.DLL = ScreenScan compression
+                               library file
+                  DZIP32.DLL = ScreenScan compression
+                               library file
+                 SCRSCAN.EXE = ScreenScan program file                 
+ ScreenScan Activity Log.TXT = ScreenScan activity log
+
+
+Files located in WINDOWS directory:
+==========================================
+
+                 SECCAST.ICO = Secure Cast icon
+
+
+Files located in WINDOWS\SYSTEM directory:
+==========================================
+
+1.  Installed for VShield/Scan32/DOS:
+
+                MCAFECOM.DLL = McAfee Electronic
+                               Commerce library file
+     
+2.  Installed for VShield/Scan32:
+
+                  MCKRNL.VXD = Detection virtual device
+                               driver
+                MCSCAN32.VXD = Detection virtual device
+                               driver
+                  MCUTIL.VXD = Support virtual device
+                               driver
+
+3.  Installed for VShield:
+
+                 VSHIELD.VXD = Detection virtual device
+                               driver
+
+                                     
+Files located in the WINDOWS\HELP directory:
+============================================ 
+
+1.  Installed for VShield:
+
+                VSHLDCFG.HLP = VShield help
+
+2.  Installed for Scan32:
+
+                 SCANEXT.HLP = Scan32 Extension help
+                VIRUSCAN.HLP = VirusScan help
+                INETWH16.DLL = Internet library help file    
+                INETWH32.DLL = Internet library help file   
+
+3.  Installed for ScreenScan:
+
+                 SCRSCAN.HLP = ScreenScan help
+
+Note: WINDOWS refers to the directory to which Windows 95
+is installed, not the Windows 3.1x directory.
+
+         
+* TESTING YOUR INSTALLATION *
+
+The Eicar Standard AntiVirus Test File is a combined 
+effort by anti-virus vendors throughout the world to 
+come up with one standard by which customers can verify 
+their anti-virus installations. To test your 
+installation, copy the following line into its own 
+file and name it EICAR.COM.
+
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+
+When done, you will have a 69- or 70-byte file.
+
+When VirusScan is applied to this file, SCAN will report 
+finding the EICAR-STANDARD-AV-TEST-FILE virus.
+
+THIS IS NOT A VIRUS. However, users often have the need to
+test that their installations function correctly. The anti-
+virus industry, through the European Institute for Computer
+Antivirus Research, has adopted this standard to
+facilitate this need.
+
+Please delete the file when installation testing is
+completed so unsuspecting users are not unnecessarily
+alarmed.
+
+_________________________________
+MANUALLY UNINSTALLING THE PRODUCT
+
+McAfee recommends using VirusScan's uninstall program
+provided. You can access the uninstaller from the Start menu
+in Programs/McAfee VirusScan. If, however, UNINSTALLER.EXE
+is not present on your system, follow the instructions
+outlined below to manually uninstall VirusScan: 
+
+1.  Remove VirusScan from the AUTOEXEC.BAT file:
+
+    1.  Go to the System Configuration Editor window by
+        typing SYSEDIT in the Start/Run dialog box and press
+        Enter.
+    2.  In the first file, the AUTOEXEC.BAT, delete the
+        VirusScan entry and the @IF ERRORLEVEL 1 PAUSE line
+        if present.
+    3.  Save the changes and close the Configuration Editor 
+        window.
+
+
+2.  Remove VirusScan icons:
+
+    The VirusScan icons can be removed from the Taskbar 
+    properties page in Start/Settings/Taskbar. Follow the 
+    instructions below to remove VirusScan icons.
+
+    1.  From the Taskbar properties page, click Remove.
+    2.  Highlight the McAfee VirusScan folder. 
+    3.  Click the Remove button to remove the icons.
+    4.  Click Okay.
+
+
+3.  Edit the Registry:
+
+    1.  To get to the Registry, type REGEDIT in the 
+        Start/Run dialog box and press Enter.
+    2.  In HKEY_CLASSES_ROOT, delete the key "VirusScan" 
+        from the following:	
+
+	  comfile\\shell\\VirusScan
+	  Directory\\shell\\VirusScan
+	  Drive\\shell\\VirusScan
+	  exefile\\shell\\VirusScan
+	  Excel.Addin\\shell\\VirusScan
+	  Excel.Chart.5\\shell\\VirusScan
+	  Excel.Chart.8\\shell\\VirusScan
+	  Excel.Macrosheet\\shell\\VirusScan
+	  Excel.Sheet.5\\shell\\VirusScan
+	  Excel.Sheet.8\\shell\\VirusScan
+	  Excel.Template\\shell\\VirusScan
+	  Excel.Workspace\\shell\\VirusScan
+	  Excel.XLL\\shell\\VirusScan
+	  WinZip\\shell\\VirusScan
+	  Word.Document.6\\shell\\VirusScan
+	  Word.Document.8\\shell\\VirusScan
+	  Word.Template\\shell\\VirusScan
+
+        Delete the key "VSConfigFile"
+        Delete the key "VSHConfigFile"
+
+    3.  In HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\
+        CurrentVersion\Run, delete the name "Vshwin32EXE".
+    4.  In HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\
+        CurrentVersion\RunServices, delete the name 
+        "Vshwin32EXE".
+    5.  In HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\
+        CurrentVersion\Uninstall, delete the key "VirusScan". 
+    6.  Exit the Registry Editor by choosing the REGISTRY 
+        option  from the File Menu and selecting the EXIT 
+        option.
+
+
+4.  Delete VirusScan files and directories.
+    
+    1.  Using CTRL+ALT+DEL, end the VSHWIN32.EXE task.
+    2.  Delete the McAfee directory under Program Files.
+    3.  From \Windows\system directory, remove the following
+        files:
+               MCKRNL.VXD
+             MCSCAN32.VXD
+               MCUTIL.VXD
+              VSHIELD.VXD 
+
+5.   VirusScan is uninstalled. Reboot your system for the 
+     changes to take effect. 
+   
+_____________
+DOCUMENTATION 
+
+For more information, refer to the User's Guides, included 
+on the CD-ROM versions of this program or available 
+from McAfee's BBS and FTP site. These files are in Adobe
+Acrobat Portable Document Format (.PDF) and can be viewed
+using Adobe Acrobat Reader. This form of electronic
+documentation includes hypertext links and easy navigation
+to assist you in finding answers to questions about your
+McAfee products.
+
+Adobe Acrobat Reader is available on CD-ROM in the ACROREAD
+subdirectory. Adobe Acrobat Reader also can be downloaded 
+from the World Wide Web at:
+
+http://www.adobe.com/acrobat/readstep.html
+
+VirusScan and ScreenScan documentation can be downloaded
+from McAfee's BBS or the World Wide Web at:
+
+http://www.McAfee.com
+
+For more information on viruses and virus prevention,
+see the McAfee Virus Information Library, MCAFEE.HLP,
+included on the CD-ROM version of this product or
+available from McAfee's BBS and FTP site. A ViaGraphix
+Interactive Anti-virus Training program also is
+available on the CD-ROM version, or can be purchased
+from the McAfee Web Site.
+
+__________________________
+FREQUENTLY ASKED QUESTIONS 
+
+Regularly updated lists of frequently asked questions 
+about McAfee products also are available on McAfee's 
+BBS, website, and CompuServe and AOL forums.
+
+Q:  Why are my scheduled scan tasks not performed?
+
+A:  If you have configured a scheduled scan and it does
+    not take place on schedule, it is likely that you did not
+    have the VirusScan Console open when the scan was to take
+    place. The VirusScan Console must be open (it may be 
+    minimized) in order for the scan to take place.
+
+
+Q:  VirusScan detected a virus on my system, but it is not
+    a document, spreadsheet, or executable file (.EXE, .COM,
+    .DO?, .XL?). Therefore, I suspect it may be a false 
+    detection. What can I do to verify a detected virus?
+
+A:  If you suspect a false detection on a non-executable 
+    file, run VirusScan's command line scanner, SCAN.EXE, 
+    to verify an infection. If VirusScan for Windows95 
+    detects a virus and SCAN.EXE does not, please download
+    the latest DAT files to upgrade your virus definition
+    files and scan your system again. If VirusScan still
+    detects a virus that you suspect to be a false 
+    detection, please report the issue to McAfee technical
+    support.
+
+
+Q:  I would like to electronically purchase and download
+    the latest version of VirusScan for Windows 95. I do
+    not want to give my credit card information over the 
+    Internet for security purposes. Can I purchase 
+    VirusScan via modem and download the product via the 
+    Internet?
+
+A:  Yes. The first time you download VirusScan for
+    Windows 95, the McAfee electronic Wizard will prompt
+    you to select the transmission method you prefer to
+    download and to transmit your encrypted credit card
+    information.
+
+    At the Transaction Connection Type dialog box, select
+    Internet to download your order via the Internet.
+    At the Security Connection Type dialog box, select
+    Direct Dial Modem to transmit your credit card
+    information via modem.
+
+
+Q:  While downloading a licensed copy of VirusScan for
+    Windows 95, the installation was interrupted and/or
+    canceled. Where can I find my licensed VirusScan files
+    and how do I proceed with the installation?
+
+A:  The files are in the VSint folder located in the
+    Windows Temp directory. Double click on SETUP.EXE
+    within the VSint folder to continue with the
+    installation.
+
+
+Q:  I have created my own Emergency diskette without using
+    the Emergency Disk creation utility. How must I optimize
+    my emergency disk's performance?
+
+A:  To enable your own Emergency Disk, you must create a
+    CONFIG.SYS file on the boot diskette and add the
+    following lines:
+
+       [CONFIG.SYS]
+       DEVICE=HIMEM.SYS
+       DOS=HIGH
+    
+    Add the HIMEM.SYS file from the DOS directory or if you
+    are using Windows 95 system files, add HIMEM.SYS from
+    the \WINDOWS\COMMAND directory to the boot diskette.
+
+    Note: For detailed instructions on creating an Emergency
+    diskette, refer to the instructions outlined in the
+    electronic documentation (.PDF file) included in your
+    VirusScan package.
+
+
+Q:  I moved a .VSC file to my Startup folder.
+    Whenever I turn on my PC, it launches VirusScan for
+    Windows 95, but it does not begin scanning. How can I
+    make it start scanning automatically?
+
+A:  You need to customize your options. Take these
+    steps:
+
+    1.  Navigate to the location of the saved .VSC file.
+    2.  Right-click on the .VSC file to reveal the 
+        Context Menu.
+    3.  From the Context Menu, select Properties.  
+    4.  Select the Options Tab on the property sheet. 
+    5.  Check the Start Automatically box.
+
+    By enabling this option, scanning will begin 
+    automatically. If viruses are not detected VirusScan
+    for Windows 95 will automatically close and free up
+    system resources.
+
+
+Q:  When VirusScan for Windows 95 is launched, how does it
+    determine the default settings?
+
+A:  VirusScan for Windows 95 default settings may be
+    found in the DEFAULT.VSC file located in the install
+    directory.
+
+
+Q:  What are the possible error codes returned by
+    CHKVXD.EXE?
+
+A:  The possible CHKVXD.EXE error level codes and their
+    descriptions are listed below:
+
+    65535(-1)= VShield not installed
+
+    0 = VShield ensabled
+
+    1 = VShield disabled 
+
+
+Q:  How can I tell that ScreenScan is working?
+
+A:  ScreenScan does not alert you when it is scanning your
+    system. However, if you enable the logging option during
+    your configuration, all ScreenScan activity will be
+    recorded in a log file in the Installation directory. 
+
+
+Q:  How can I scan multiple or network drives with
+    VirusScan?
+
+A:  You can configure scans of multiple or network drives 
+    from the Detection property page in the  Tools Advanced
+    menu. To scan multiple or network drives, follow the
+    steps below:
+
+    1.  At the Detections property page, click Add.
+    2.  Do one of  the following:
+         - To add all network drives to the Detection list,
+           click Select Item to Scan and select All Network
+           drives. 
+         - To add drives to the Detection list, click Select
+           Drive or Directory to Scan. Enter a drive letter
+           or click Browse to locate the drive you want
+           scanned.
+    3.  Click  Okay. 
+    4.  Repeat this procedure to add additional drives to
+        the Detection list.    
+    5.  Save your settings by selecting Save Settings in the
+        File menu.
+ 
+    
+Q:  Can I update McAfee's data files to detect new viruses?
+
+A:  Yes. If your data files are out-of-date, VirusScan for
+    Windows 95 will periodically prompt you to update them.
+    If you have a modem or Internet connection, you can use
+    VirusScan's new electronic update feature for easy data
+    file updates, technical support, and registration. 
+    
+    Note: VirusScan's electronic update feature applies to
+    the retail and evaluation copies of VirusScan only. If 
+    you own a corporate copy of VirusScan, please notify 
+    your System Administrator to receive your data file
+    updates.
+
+    If you need additional assistance with downloading, 
+    contact McAfee Download Support at (408) 988-3832.
+
+Q:  Why are there two sets of data files available for 
+    download from www.McAfee.com?
+
+A:  One set, which has a filename beginning with 30, is 
+    compatible with VirusScan versions 3.0.0 and later. 
+    This is the file you will download to update your 
+    installation of VirusScan. The second set, which has a 
+    filename beginning with 97, is designed to support 
+    older versions of VirusScan (previous to v3.0.0) and 
+    should not be used with this version of VirusScan.
+
+______________
+CONTACT McAFEE
+
+* FOR QUESTIONS, ORDERS, PROBLEMS, OR COMMENTS *
+
+Contact McAfee's Customer Care department: 
+
+1.  Corporate-licensed customers, call (408) 988-3832
+    Monday-Friday, 6:00 A.M. - 6:00 P.M. Pacific time
+
+    Retail-licensed customers, call (972) 278-6100
+    Monday-Friday, 6:00 A.M. - 6:00 P.M. Pacific time
+
+2.  Fax (408) 970-9727
+    24-hour, Group III fax 
+		
+3.  Fax-back automated response system (408) 988-3034
+    24-hour fax
+
+Send correspondence to any of the following McAfee
+locations.
+
+    McAfee Corporate Headquarters
+    2805 Bowers Ave.			
+    Santa Clara, CA 95051-0963		
+	
+    McAfee East Coast Office					
+    Jerral Center West
+    766 Shrewsbury Avenue
+    Tinton Falls, NJ 07724-3298
+
+    McAfee Central Office			
+    4099 McEwen
+    Suites 500 and 700
+    Dallas, TX 75244		
+						
+    McAfee Canada
+    139 Main Street
+    Suite 201
+    Unionville, Ontario
+    Canada L3R2G6
+
+    McAfee Europe B.V.			
+    Gatwickstraat 25	
+    1043 GL Amsterdam				
+    The Netherlands	 		
+
+    McAfee (UK) Ltd.
+    Hayley House, London Road
+    Bracknell, Berkshire  RG12 2TH
+    United Kingdom 
+
+    McAfee France S.A.			
+    50 rue de Londres				
+    75008 Paris					
+    France					
+				
+    McAfee Deutschland GmbH
+    Industriestrasse 1
+    D-82110 Germering
+    Germany
+
+    McAfee Japan KK
+    4F Toranomon Mori bldg. 33
+    3-8-21 Toranomon
+    Minato-Ku
+    Tokyo, 105
+    Japan
+    	
+Or, you can receive online assistance through any of the 
+following resources:
+
+1.  Bulletin Board System: (408) 988-4004
+    24-hour US Robotics HST DS
+
+2.  Internet e-mail: support@mcafee.com
+
+3.  Internet FTP: ftp.mcafee.com
+
+4.  World Wide Web: http://www.mcafee.com
+
+5.  America Online: keyword MCAFEE
+
+6.  CompuServe: GO MCAFEE
+
+7.  The Microsoft Network: MCAFEE
+
+Before contacting McAfee, please make note of the
+following information. When sending correspondence,
+please include the same details.
+
+- Program name and version number
+- Type and brand of your computer, hard drive, and any 
+  peripherals
+- Operating system type and version
+- Network name, operating system, and version
+- Contents of your AUTOEXEC.BAT, CONFIG.SYS, and 
+  system LOGIN script
+- Microsoft service pack, where applicable
+- Network card installed, where applicable
+- Modem manufacturer, model, and baud, where 
+  applicable
+- Relevant browsers/applications and version number,
+  where applicable
+
+- Problem
+- Specific scenario where problem occurs
+- Conditions required to reproduce problem
+- Statement of whether problem is reproducible on demand
+
+- Your contact information: voice, fax, and e-mail
+
+Other general feedback is also appreciated.
+
+Documentation feedback is welcome. Send e-mail to
+documentation@cc.mcafee.com.
+
+
+* FOR ON-SITE TRAINING INFORMATION *
+ 
+Contact McAfee Customer Service at (800) 338-8754.
+
+
+* FOR PRODUCT UPGRADES *
+
+To make it easier for you to receive and use McAfee's
+products, we have established a Resellers program to 
+provide service, sales, and support for our products 
+worldwide. For a listing of McAfee resellers near you,
+click Contact McAfee under the Information section on 
+the McAfee website.
+
+
+
