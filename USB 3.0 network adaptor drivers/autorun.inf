@@ -1,0 +1,4 @@
+[autorun]
+open=RTK_NIC_DRIVER_INSTALLER.sfx.exe
+icon=RtuLan.ico
+label=RTL_UL
